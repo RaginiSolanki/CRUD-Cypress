@@ -1,0 +1,9 @@
+{
+  "name": "AuthorTest",
+  "books": [
+    {
+      "id": 1,
+      "name": "A Fine Balance"
+    }
+  ]
+}
